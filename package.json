@@ -26,8 +26,7 @@
     {
       "name": "jerry zhang",
       "email": "jerry.zhang@peopledata.org.cn"
-    },
-    
+    }
   ],
   "license": "MIT",
   "dependencies": {
@@ -52,7 +51,6 @@
     "bluebird": "3.5.3",
     "browserify": "16.2.3",
     "chai": "4.2.0",
-    "hooked-web3-provider": "christianlundkvist/hooked-web3-provider#updates_web3_14",
     "istanbul": "0.4.5",
     "mocha": "6.0.2",
     "uglify-js": "3.5.2"
