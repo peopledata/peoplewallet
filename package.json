@@ -1,6 +1,6 @@
 {
   "name": "peoplewallet",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "description": "A lightweight javascript wallet for peopledata community.",
   "main": "index.js",
   "repository": {
